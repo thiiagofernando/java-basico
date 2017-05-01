@@ -17,7 +17,7 @@ public class AT12 {
 		}
 		while(raiz > 0);
 			
-			  System.out.println("Fim Numero negativo");
+        System.out.println("Fim Numero negativo");
 
 	}
 
