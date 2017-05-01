@@ -79,7 +79,7 @@ public class AT19 {
 	        } 
 	        
 	      }catch(Exception e){
-	    	  System.out.println("Operação Invalida");
+	    	  System.out.println("Operação Invalida " + e.getMessage());
 
 	      }
 	    } 
