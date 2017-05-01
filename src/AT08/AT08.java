@@ -22,7 +22,7 @@ public class AT08 {
 				   raiz++;
 			   
 		}
-		   System.out.println("exit");
+		   System.out.println("Fim Numero negativo");
 
 
 	}
