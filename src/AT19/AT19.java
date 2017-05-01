@@ -70,16 +70,16 @@ public class AT19 {
 								System.out.println("A Divisão e: " + divide);
 								System.out.println("");
 	            		}
+	            	}if(opcao > 4)
+	            	{
+	            		System.out.println("Operação não encontrada");
 	            	}
-	            	else{
-	            		
-	            		System.out.println("Operação Invalida");
-	            	}
+
 	            }
 	        } 
 	        
 	      }catch(Exception e){
-	    	  System.out.println("Operação Invalida " + e.getMessage());
+	    	  System.out.println("Operação Invalida" + e.getMessage());
 
 	      }
 	    } 
